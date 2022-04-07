@@ -1,0 +1,10 @@
+set,question_number,text
+0,0,What will the EV market share growth be for year 1?
+0,1,What will the plug-in hybrid sales be for year 1?
+0,2,Will our market share exceed 3% of all new cars sold in year 1?
+1,0,What will the EV market share growth be for year 2?
+1,1,What will the plug-in hybrid sales be for year 2?
+1,2,Will our market share exceed 5% of all new cars sold in year 2?
+2,0,What will the EV market share growth be for year 3?
+2,1,What will the plug-in hybrid sales be for year 3?
+2,2,Will our market share exceed 7% of all new cars sold in year 3?
